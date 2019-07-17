@@ -1,9 +1,10 @@
 # web-based-sentiment-analyzer
 
-A basic webapp written in python using flask that analyses sentiment of text from Reddit, Twitter and any custom text entered.
 
-It interacts with Reddit through praw to get comments for analysis from a choosen subreddit in a given timeframe. It interacts with Twitter through tweepy to get tweets from a selected user or from a selected hashtag. All analysis is done using the Textblob package.
+A fundamental webapp written in python utilizing cup that examinations supposition of content from Reddit, Twitter and any custom content entered. 
 
-app.py contains the web framework and the analysis is done in analysis.py.
+It cooperates with Reddit through praw to get remarks for examination from a choosen subreddit in a given time period. It collaborates with Twitter through tweepy to get tweets from a chose client or from a chose hashtag. All examination is finished utilizing the Textblob bundle. 
 
-All webpages have been made using Bootstrap and the graphs have been constructed using Chartjs
+app.py contains the web system and the investigation is done in analysis.py. 
+
+The sum total of what website pages have been caused utilizing Bootstrap and the diagrams to have been built utilizing Chartjs
